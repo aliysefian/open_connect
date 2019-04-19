@@ -5,5 +5,5 @@ ca.cisadd2.com
 fr.cisadd2.com
 de.cisadd2.com
 cz.cisadd2.com
-ir442507
-13691369
+username
+password
